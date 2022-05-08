@@ -1,0 +1,346 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 6,
+      "productName": "Kuru Üzüm",
+      "productDescription": "Çok güzel üzüm",
+      "productQuantity": 20,
+      "productPrice": 10
+    },
+    {
+      "id": 2,
+      "categoryId": 5,
+      "productName": "Ekmek",
+      "productDescription": "Çok güzel ekmek",
+      "productQuantity": 20,
+      "productPrice": 3
+    },
+    {
+      "id": 3,
+      "categoryId": 4,
+      "productName": "Pastırma",
+      "productDescription": "Çok güzel pastırma",
+      "productQuantity": 20,
+      "productPrice": 40
+    },
+    {
+      "id": 4,
+      "categoryId": 4,
+      "productName": "Sucuk",
+      "productDescription": "Çok güzel Sucuk",
+      "productQuantity": 20,
+      "productPrice": 25
+    },
+    {
+      "id": 5,
+      "categoryId": 4,
+      "productName": "Salam",
+      "productDescription": "Çok güzel salam",
+      "productQuantity": 20,
+      "productPrice": 30
+    },
+    {
+      "id": 6,
+      "categoryId": 4,
+      "productName": "Jambon",
+      "productDescription": "Çok güzel jambon",
+      "productQuantity": 20,
+      "productPrice": 50
+    },
+    {
+      "id": 7,
+      "categoryId": 4,
+      "productName": "Sosis",
+      "productDescription": "Çok güzel sosis",
+      "productQuantity": 20,
+      "productPrice": 45
+    },
+    {
+      "id": 8,
+      "categoryId": 4,
+      "productName": "Kavurma",
+      "productDescription": "Çok güzel kavurma",
+      "productQuantity": 20,
+      "productPrice": 60
+    },
+    {
+      "id": 9,
+      "categoryId": 1,
+      "productName": "Pırasa",
+      "productDescription": "Çok güzel pırasa",
+      "productQuantity": 20,
+      "productPrice": 20
+    },
+    {
+      "id": 10,
+      "categoryId": 1,
+      "productName": "Enginar",
+      "productDescription": "Çok güzel enginar",
+      "productQuantity": 20,
+      "productPrice": 25
+    },
+    {
+      "id": 11,
+      "categoryId": 1,
+      "productName": "Domates",
+      "productDescription": "Çok güzel domates",
+      "productQuantity": 20,
+      "productPrice": 30
+    },
+    {
+      "id": 12,
+      "categoryId": 1,
+      "productName": "Kuru Soğan",
+      "productDescription": "Çok güzel soğan",
+      "productQuantity": 20,
+      "productPrice": 15
+    },
+    {
+      "id": 13,
+      "categoryId": 1,
+      "productName": "Sarımsak",
+      "productDescription": "Çok güzel sarımsak",
+      "productQuantity": 20,
+      "productPrice": 10
+    },
+    {
+      "id": 14,
+      "categoryId": 1,
+      "productName": "Patlıcan",
+      "productDescription": "Çok güzel patlıcan",
+      "productQuantity": 20,
+      "productPrice": 20
+    },
+    {
+      "id": 15,
+      "categoryId": 2,
+      "productName": "Karpuz",
+      "productDescription": "Çok güzel karpuz",
+      "productQuantity": 20,
+      "productPrice": 20
+    },
+    {
+      "id": 16,
+      "categoryId": 2,
+      "productName": "Erik",
+      "productDescription": "Çok güzel erik",
+      "productQuantity": 20,
+      "productPrice": 50
+    },
+    {
+      "id": 17,
+      "categoryId": 2,
+      "productName": "Çağla",
+      "productDescription": "Çok güzel çağla",
+      "productQuantity": 20,
+      "productPrice": 25
+    },
+    {
+      "id": 18,
+      "categoryId": 2,
+      "productName": "Şeftali",
+      "productDescription": "Çok güzel şeftali",
+      "productQuantity": 20,
+      "productPrice": 15
+    },
+    {
+      "id": 19,
+      "categoryId": 2,
+      "productName": "Yerli Muz",
+      "productDescription": "Çok güzel yerli muz",
+      "productQuantity": 20,
+      "productPrice": 10
+    },
+    {
+      "id": 20,
+      "categoryId": 2,
+      "productName": "Çilek",
+      "productDescription": "Çok güzel çilek",
+      "productQuantity": 20,
+      "productPrice": 10
+    },
+    {
+      "id": 21,
+      "categoryId": 2,
+      "productName": "Ahududu",
+      "productDescription": "Çok güzel ahududu",
+      "productQuantity": 20,
+      "productPrice": 150
+    },
+    {
+      "id": 22,
+      "categoryId": 2,
+      "productName": "Ananas",
+      "productDescription": "Çok güzel ananas",
+      "productQuantity": 20,
+      "productPrice": 20
+    },
+    {
+      "id": 23,
+      "categoryId": 2,
+      "productName": "Mango",
+      "productDescription": "Çok güzel mango",
+      "productQuantity": 20,
+      "productPrice": 15
+    },
+    {
+      "id": 24,
+      "categoryId": 2,
+      "productName": "Portakal",
+      "productDescription": "Çok güzel portakal",
+      "productQuantity": 20,
+      "productPrice": 17
+    },
+    {
+      "id": 25,
+      "categoryId": 3,
+      "productName": "Dana kuşbaşı",
+      "productDescription": "Çok güzel kuşbaşı",
+      "productQuantity": 20,
+      "productPrice": 200
+    },
+    {
+      "id": 26,
+      "categoryId": 3,
+      "productName": "Kuzu Akciğer",
+      "productDescription": "Çok güzel akciğer",
+      "productQuantity": 20,
+      "productPrice": 150
+    },
+    {
+      "id": 27,
+      "categoryId": 3,
+      "productName": "Dana Kıyma",
+      "productDescription": "Çok güzel kıyma",
+      "productQuantity": 20,
+      "productPrice": 85
+    },
+    {
+      "id": 28,
+      "categoryId": 3,
+      "productName": "Pirzola",
+      "productDescription": "Çok güzel pirzola",
+      "productQuantity": 20,
+      "productPrice": 160
+    },
+    {
+      "id": 29,
+      "categoryId": 3,
+      "productName": "Izgara Köfte",
+      "productDescription": "Çok güzel köfte",
+      "productQuantity": 20,
+      "productPrice": 120
+    },
+    {
+      "id": 30,
+      "categoryId": 3,
+      "productName": "Kuzu Gerdan",
+      "productDescription": "Çok güzel gerdan",
+      "productQuantity": 20,
+      "productPrice": 120
+    },
+    {
+      "id": 31,
+      "categoryId": 3,
+      "productName": "Bonfile",
+      "productDescription": "Çok güzel bonfile",
+      "productQuantity": 20,
+      "productPrice": 500
+    },
+    {
+      "id": 32,
+      "categoryId": 5,
+      "productName": "Tahinli Çörek",
+      "productDescription": "Çok güzel T.çörek",
+      "productQuantity": 20,
+      "productPrice": 16
+    },
+    {
+      "id": 33,
+      "categoryId": 5,
+      "productName": "Cevizli Ekmek",
+      "productDescription": "Çok güzel c.ekmek",
+      "productQuantity": 20,
+      "productPrice": 15
+    },
+    {
+      "id": 34,
+      "categoryId": 5,
+      "productName": "Peynirli Sandviç",
+      "productDescription": "Çok güzel sandviç",
+      "productQuantity": 20,
+      "productPrice": 6
+    },
+    {
+      "id": 35,
+      "categoryId": 5,
+      "productName": "Çikolatalı Açma",
+      "productDescription": "Çok güzel açma",
+      "productQuantity": 20,
+      "productPrice": 5
+    },
+    {
+      "id": 36,
+      "categoryId": 5,
+      "productName": "Kandil Simidi",
+      "productDescription": "Çok güzel k.simidi",
+      "productQuantity": 20,
+      "productPrice": 10
+    },
+    {
+      "id": 37,
+      "categoryId": 5,
+      "productName": "Kaşarlı Poğaça",
+      "productDescription": "Çok güzel poğaça",
+      "productQuantity": 20,
+      "productPrice": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Sebze",
+      "categorySeoUrl": "sebze"
+    },
+    {
+      "id": 2,
+      "categoryName": "Meyve",
+      "categorySeoUrl": "meyve"
+    },
+    {
+      "id": 3,
+      "categoryName": "Kasap",
+      "categorySeoUrl": "kasap"
+    },
+    {
+      "id": 4,
+      "categoryName": "Şarküteri",
+      "categorySeoUrl": "şarküteri"
+    },
+    {
+      "id": 5,
+      "categoryName": "Fırın",
+      "categorySeoUrl": "fırın"
+    },
+    {
+      "id": 6,
+      "categoryName": "Kuru Gıda",
+      "categorySeoUrl": "kuru gıda"
+    }
+  ],
+  "customer": [
+    {
+      "name": "Ramazan",
+      "surname": "İPERLİK",
+      "email": "ramazaniperlik@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Ramazan",
+      "surname": "İperlik",
+      "email": "ramazaniperlik@test.com",
+      "id": 2
+    }
+  ]
+}

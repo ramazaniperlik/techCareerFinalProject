@@ -1,0 +1,39 @@
+.nav-link:hover{
+   color:#0D6EFD!important;
+}
+.bg-success {
+    background-color: aquamarine!important;
+}
+.btn-secondary:hover{
+    background-color: #0D6EFD!important;
+    border:1px solid #0D6EFD!important;
+}
+.productCard{
+    height:250px;
+    width:200px;
+}
+
+@media only screen and (max-width: 960px) {
+    .mainRow{
+        display:flex!important;
+        flex-direction: column;
+        justify-content: center;
+        align-items:center;
+        margin-bottom:50px;
+    }
+    .carousel{
+        display:none;
+    }
+    .basket{
+        display:none;
+    }
+    .mainRow .category{
+        display:none;
+    }
+    .products{
+        display:flex!important;
+        align-items:center;
+        justify-content:center;
+        flex-wrap:wrap!important;
+    }
+}
